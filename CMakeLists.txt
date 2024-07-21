@@ -205,4 +205,4 @@ odb_flpcheck_ preferred_dbname_ioassign_ put_incore_ioassign_ rlnkdb_ rlnkdb2_
 swap8bytes_ util_cgetenv_ util_filesize_ util_igetenv_ util_readraw_ util_writeraw_   
 write_ddl_)
 
-
+install (DIRECTORY DESTINATION "include")
