@@ -203,6 +203,6 @@ lnkdb2_ msgpass_loaddata_ msgpass_loadobs_ msgpass_storedata_ msgpass_storeobs_
 newio_end32_ newio_flush32_ newio_release_pool32_ newio_start32_ odb_darray_dump_     
 odb_flpcheck_ preferred_dbname_ioassign_ put_incore_ioassign_ rlnkdb_ rlnkdb2_        
 swap8bytes_ util_cgetenv_ util_filesize_ util_igetenv_ util_readraw_ util_writeraw_   
-write_ddl_)
+write_ddl_ append_num_)
 
 install (DIRECTORY DESTINATION "include")
